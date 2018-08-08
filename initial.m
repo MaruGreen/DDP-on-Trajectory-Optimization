@@ -1,4 +1,7 @@
 
+% Author: Li Shidi, E0081728@u.nus.edu
+% Date: Nov 11, 2017
+
 clear all
 close all
 
