@@ -1,4 +1,7 @@
 
+% Author: Li Shidi, E0081728@u.nus.edu
+% Date: Nov 11, 2017
+
 initial;
 
 %% Define the variables
@@ -287,11 +290,4 @@ end
 axis([35 45 -8 2])
 title('Optimized Trajectories with Different Initial Velocities')
 hold off
-
-
-
-
-
-
-
 
