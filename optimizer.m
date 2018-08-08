@@ -1,4 +1,7 @@
 
+% Author: Li Shidi, E0081728@u.nus.edu
+% Date: Nov 11, 2017
+
 initial;
 
 %% Define the variables
@@ -108,11 +111,4 @@ hold on
 %legend('costX','costU','total','costX1','costX2','costX3','costX4','costX5','costX6')
 legend('costX1','costX2','costX3','costX4','costX5','costX6')
 hold off
-
-
-
-
-
-
-
 
